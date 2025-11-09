@@ -1,0 +1,7 @@
+{
+  "name": "EduMentor AI",
+  "description": "An educational platform that combines AI-driven learning with guidance from human teachers. It offers personalized lesson plans, interactive chat, adaptive tests, and a collaborative environment for students in Moldova and Eastern Europe, all within a minimalist, Notion-style interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
